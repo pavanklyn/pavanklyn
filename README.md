@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-🎓 **Master's Student** pursuing Computer Applications (MCA)  
+🎓 **MCA Graduate** pursuing Computer Applications (MCA)  
 🛠️ Building scalable solutions with **Python, JavaScript & Cloud Technologies**  
 ☁️ Exploring **AWS, Azure & Modern DevOps** practices  
 🔐 Passionate about **Security, Privacy & Clean Code**  
