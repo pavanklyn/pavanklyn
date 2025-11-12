@@ -6,11 +6,11 @@
 
 ## 💻 About Me
 
-🎓 **MCA Graduate** pursuing Computer Applications (MCA)  
+🎓 **MCA Graduate** Master's in Computer Applications (MCA)  
 🛠️ Building scalable solutions with **Python, JavaScript & Cloud Technologies**  
 ☁️ Exploring **AWS, Azure & Modern DevOps** practices  
 🔐 Passionate about **Security, Privacy & Clean Code**  
-🌱 Currently learning advanced cloud architectures and microservices  
+🌱 Currently learning Python Fullstack Developer,advanced cloud architectures and microservices  
 💬 Ask me about Python, Cloud Computing, or Web Development
 
 ## 🛠️ Tech Stack
