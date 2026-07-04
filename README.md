@@ -1,7 +1,7 @@
 # Hi there, I'm Pavan Kalyan Buradagunta! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=MCA+Graduate+%7C+Aspiring+Software+Engineer;Python+%26+Cloud+(AWS)+Developer; Building+Real-World+Automation+%26+ML+Projects;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=MCA+Graduate+%7C+Aspiring+Software+Engineer;Python+%26+Cloud+(AWS)+Developer;Building+Real-World+Automation+%26+ML+Projects;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
