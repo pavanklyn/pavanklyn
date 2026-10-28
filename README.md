@@ -8,7 +8,7 @@
   <strong>Open to entry-level Python, Backend, and Full-Stack roles in Hyderabad and across India</strong>
   <br /><br />
   <a href="https://www.linkedin.com/in/buradagunta-pavan-kalyan/">LinkedIn</a> ·
-  <a href="https://pavan-portfolio-sage.vercel.app">Portfolio</a> ·
+  <a href="https://pavankalyan-b.netlify.app">Portfolio</a> ·
   <a href="mailto:pavankalyanburadagunta@gmail.com">Email</a>
 </div>
 
